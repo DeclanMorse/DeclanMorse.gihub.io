@@ -1,4 +1,2 @@
-# DeclanMorse.github.io
-theme: architect
-#Flag
-The Flag should be visisble?
+# Welcome to the John Williams Website!
+Is there a better introduction to the flags then this?
